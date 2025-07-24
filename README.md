@@ -1,2 +1,14 @@
-# Login_Page
-This is a fully responsive, 3D animated login page built using HTML5, CSS3, and Bootstrap 5. It features glassmorphism, hover animations, 3D effects, and a modern dark gradient background. The design includes smooth transitions, input focus effects, and looks stunning on all screen sizes.
+This is a visually stunning, modern, and animated login page built with cutting-edge front-end technologies. It features glassmorphism effects, 3D layered design, hover animations, and a responsive layout that looks perfect on all screen sizes.
+
+Ye login page full responsive hai, matlab har device (mobile, tablet, desktop) pe perfect kaam karta hai. Isme modern design trends ka use kiya gaya hai jaise:
+
+Glassmorphism (blurred glass effect)
+
+3D shadows and layer depth
+
+Smooth animations on buttons and inputs
+
+Hover effects on all interactive elements
+
+Dark and gradient background themes
+
